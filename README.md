@@ -43,8 +43,9 @@ Coding guidance: Combine "clean, object-oriented, tested code" with "working sof
 
 What would you do if you had more time? Which design decisions and trade-offs did you take?
 
-* FILL-ME 1
-* FILL-ME 2
+* I would create more strictly typed implementation (User class and Purchase class). In current implementation I wanted 
+* to create the Database service which was abstract and could contain the infinite number of tables of any types
+* I would add a proper handling of exceptions
 
 
 Have fun!
